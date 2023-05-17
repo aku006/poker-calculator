@@ -1,0 +1,15 @@
+D:\Documents\GitHub\poker-calculator\bin\Debug\net6.0\poker-calculator.exe
+D:\Documents\GitHub\poker-calculator\bin\Debug\net6.0\poker-calculator.deps.json
+D:\Documents\GitHub\poker-calculator\bin\Debug\net6.0\poker-calculator.runtimeconfig.json
+D:\Documents\GitHub\poker-calculator\bin\Debug\net6.0\poker-calculator.dll
+D:\Documents\GitHub\poker-calculator\bin\Debug\net6.0\poker-calculator.pdb
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.csproj.AssemblyReference.cache
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.AssemblyInfoInputs.cache
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.AssemblyInfo.cs
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.dll
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\refint\poker-calculator.dll
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.pdb
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\poker-calculator.genruntimeconfig.cache
+D:\Documents\GitHub\poker-calculator\obj\Debug\net6.0\ref\poker-calculator.dll

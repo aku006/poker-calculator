@@ -17,7 +17,7 @@ namespace PokerCalculator
 
             Console.Write("Enter number of players: ");
             numPlayers = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the total amount of American dollars (do not include comma if amount is at least in the thousands): $");
+            Console.Write("Enter total amount of money in USD (include numbers ONLY): $");
             totalPot = Convert.ToDecimal(Console.ReadLine());
 
             // For a game of 6 or less players
